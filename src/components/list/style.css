@@ -1,0 +1,39 @@
+.working-tree{  
+    max-width:1200px;
+    min-width:800px;
+    padding:1rem;
+    margin-left: auto;
+    margin-right: auto;
+    line-height:1.5rem;
+    margin-top: 2rem;
+    align-items: center;
+}
+
+.done-tree{
+    max-width:1200px;
+    min-width:800px;
+    padding:1rem;
+    margin-left: auto;
+    margin-right: auto;
+    line-height:1.5rem;
+    margin-top: 2rem;
+    align-items: center;
+    justify-content:flex-start
+}
+
+.container {
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:flex-start;
+    gap:1rem;
+}
+
+.title{
+    display:flex;
+    align-items: center;
+}
+
+span {
+    margin-left: 1.25rem;
+    align-items: center;
+}

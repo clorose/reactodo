@@ -1,0 +1,22 @@
+.header{
+    max-width:1200px;
+    min-width:800px;
+    display:flex;
+    align-items: center;
+    background:#fefefe;
+    padding:1rem;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+    line-height:1.5rem;
+    margin-top: 2rem;
+}
+
+.header h2{
+    flex:1;
+    margin-left: 2rem;
+}
+
+.header h3{
+    margin-right:2rem;
+}
